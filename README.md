@@ -8,4 +8,6 @@ Summer 2023 Algo Grind
 
 6/6/2023 - Quick Sort
 
-6/7/2023 -  Selection SortS
+6/7/2023 -  Selection Sort
+
+6/8/2023 - Binary Search
