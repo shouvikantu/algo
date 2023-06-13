@@ -15,3 +15,5 @@ Summer 2023 Algo Grind
 6/9/2023 -  Heap Sort
 
 6/10/2023 -  Ternary Search
+
+6/12/2023 - Revision 
